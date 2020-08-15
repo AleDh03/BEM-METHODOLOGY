@@ -73,7 +73,7 @@ a:hover {
   display: inline-flex;
   justify-content: space-between;
   align-items: center;
-  background: #403cc2;
+  background: #9cada4;
   transition: 0.3s ease all;
 }
 .text__button {
@@ -94,7 +94,7 @@ a:hover {
 }
 
 button--green:hover {
-  background: #437837;
+  background: #767c77;
 }
 
 .phrase {
